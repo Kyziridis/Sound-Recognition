@@ -1,5 +1,9 @@
-## README
-Bird-sound classification neural network.
+## Bird-sound classification neural network.
+
+
+### Data
+You can download the dataset from:
+http://machine-listening.eecs.qmul.ac.uk/bird-audio-detection-challenge/
 
 Folder Project contatins three scripts.py and one csv with the groundtruth values.
 
@@ -7,12 +11,11 @@ The two scripts named RNN_script.py and Simple_NN.py are suitable to be run in c
 
 Script named RNN_Duranium.py is specified to import and train the neural network in super computer without visualization.
 
-You can download the dataset from:
-http://machine-listening.eecs.qmul.ac.uk/bird-audio-detection-challenge/
 
 
 
-In order to run the two scripts you need:
+
+#### In order to run the two scripts you need:
 1) Python3.6
 2) sys
 3) random
