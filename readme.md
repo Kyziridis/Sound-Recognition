@@ -11,7 +11,7 @@ The two scripts named RNN_script.py and Simple_NN.py are suitable to be run in c
 
 Script named RNN_Duranium.py is specified to import and train the neural network in super computer without visualization.
 
-
+For further information cast an eye over the Report.pdf.
 
 
 
@@ -31,3 +31,5 @@ To run the scripts you have to specify first the the path of the project and the
 For example if my Project is in my Desktop and the wavs are inside a wav folder under /Project/wav I run the script like this:
 
 python RNN_script.py "/home/user/Desktop/Project" "/home/user/Desktop/Project/wav"
+
+Enjoy >_
